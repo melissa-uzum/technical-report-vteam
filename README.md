@@ -78,6 +78,7 @@ SparkRunners admin-UI kräver:
 
 **Exempel på React + Leaflet:**
 
+```jsx
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 
 export default function MapView({ scooters }) {
@@ -96,6 +97,7 @@ export default function MapView({ scooters }) {
     </MapContainer>
   );
 }
+```
 
 **Fördelar:**
 - modulärt  
