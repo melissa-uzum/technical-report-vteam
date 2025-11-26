@@ -118,8 +118,6 @@ Exempel på data som visas:
 - laddstationsbeläggning
 - pågående resor
 
-![Admin Dashboard](./images/ADMIN.png)
-
 ### 6.2 Kartvy
 Visar:
 - fordon (markörer)
@@ -127,12 +125,7 @@ Visar:
 - parkeringszoner
 - stad/statusfilter
 
-![Kartvy](./images/KART.png)
-
 ### 6.3 Listvyer
-![Fordon](./images/FORDON.png)  
-![Kund](./images/KUND.png)
-
 Används för:
 - fordon
 - stationer
@@ -146,13 +139,6 @@ React är det mest lämpliga ramverket för SparkRunners administratörsgränssn
 - stöd för mikrotjänster
 - robust utveckling i större projekt
 
-Canva-skisser + React-komponenter gör det möjligt att snabbt visualisera UI och samtidigt bygga en skalbar kodbas.
-
-## 8. Bilagor
-- ADMIN.png  
-- KART.png  
-- KUND.png  
-- FORDON.png
 
 ## 9. Referenser
 
