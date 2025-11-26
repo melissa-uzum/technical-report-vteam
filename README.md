@@ -2,6 +2,9 @@ React vs Alternativ för att Bygga ett Administrativt Webbgränssnitt
 Teknisk studie: SparkRunners VTeam06 2025  
 Av: Melissa Üzüm
 
+## Syfte
+Syftet med denna tekniska studie är att jämföra React med Vue och Svelte för att identifiera vilket ramverk som bäst lämpar sig för SparkRunners administrativa webbgränssnitt. Fokus ligger på kartvyer, API-integrationer och en modulär SPA-arkitektur.
+
 ## 1. Introduktion
 Denna tekniska studie undersöker vilket frontend-ramverk som lämpar sig bäst för att bygga SparkRunners administrativa webbgränssnitt, en SPA som hanterar kartvy, API-data, kundlistor samt realtidsinformation om elsparkfordon.
 
