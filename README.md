@@ -152,4 +152,11 @@ Canva-skisser + React-komponenter gör det möjligt att snabbt visualisera UI oc
 - ADMIN.png  
 - KART.png  
 - KUND.png  
-- FORDON.png  
+- FORDON.png
+
+## 9. Referenser
+
+[1] R. Payne, “React, Angular, Vue, and Svelte: A Comparison,” *Ascendient Learning Blog*, Oct. 22, 2023. [Online]. Available: https://www.ascendientlearning.com/blog/comparing-angular-react-vue-svelte. [Accessed: 26 Nov. 2025].
+
+[2] D. M. Ignatovich, “React vs Vue vs Svelte: Choosing the Right Framework for 2025,” *Medium*, Jan. 18, 2025. [Online]. Available: https://medium.com/@ignatovich.dm/react-vs-vue-vs-svelte-choosing-the-right-framework-for-2025-4f4bb9da35b4. [Accessed: 26 Nov. 2025].
+
